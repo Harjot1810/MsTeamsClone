@@ -1,0 +1,6 @@
+[submodule "Video-Call-App"]
+	path = Video-Call-App
+	url = https://github.com/Harjot1810/Video-Call-App.git
+[submodule "login-api"]
+	path = login-api
+	url = https://github.com/Harjot1810/login-api.git
